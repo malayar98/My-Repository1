@@ -44,8 +44,8 @@ p#title1,p#title2,p#title3
         height: 33px;
         border: 1px solid black;
         float: right;
-        margin-top: 0;
-        margin-right: 0;
+        margin-top: 0px;
+        margin-right:0px;
         text-align: center;
         padding: 5px;
 }
